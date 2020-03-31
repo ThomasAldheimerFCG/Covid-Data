@@ -1,1 +1,1 @@
-# Thomas-CovidData
+# Covid-19 data and modeling
