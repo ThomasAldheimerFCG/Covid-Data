@@ -129,6 +129,7 @@ dmypy.json
 pyre/
 
 # local project files
+.gitignore
 .gitignore.swp
 Covid-Data.iml
 misc.xml
