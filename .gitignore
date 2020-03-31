@@ -126,4 +126,13 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-.pyre/
+pyre/
+
+# local project files
+.gitignore.swp
+Covid-Data.iml
+misc.xml
+modules.xml
+profiles_settings.xml
+vcs.xml
+
